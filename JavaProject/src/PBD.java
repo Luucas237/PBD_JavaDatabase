@@ -8,7 +8,7 @@ import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import java.util.ArrayList;
 
-public class AnimatedMaterialWindow {
+public class PBD {
     private static final int WINDOW_WIDTH = 500;
     private static final int WINDOW_HEIGHT = 400;   
     private static final int BOX_SIZE = 20; // Rozmiar kwadratu
